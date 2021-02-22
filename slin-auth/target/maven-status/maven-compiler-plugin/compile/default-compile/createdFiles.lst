@@ -1,0 +1,5 @@
+com\slin\auth\security\WebSecurityConfig.class
+com\slin\auth\AuthApplication.class
+com\slin\auth\config\OAuth2Config.class
+com\slin\auth\config\RedisTokenStoreConfig.class
+com\slin\auth\service\KiteUserDetailsService.class
